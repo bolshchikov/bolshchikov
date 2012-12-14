@@ -1,33 +1,33 @@
 ## Experience
 *June 2012 – Current*  
 **Front-end Developer**  
-[**New ProImage**](http://www.new-proimage.com/), Israel    
+[New ProImage](http://www.new-proimage.com/), Israel    
 Development of large-scale client side application for publishing houses.  
 
 
 *Nov. 2011 – June 2012*  
 **Development Lead**  
-[**Technion Research & Development Foundation**](http://www.trdf.co.il/eng/), Israel  
+[Technion Research & Development Foundation](http://www.trdf.co.il/eng/), Israel  
 Developing on-line editor for Object-Process Methodology conceptual modeling.  
 
 
 *June 2011 – March 2012*  
 **System Architect**  
-[**Technion Research & Development Foundation**](http://www.trdf.co.il/eng/), Israel  
+[Technion Research & Development Foundation](http://www.trdf.co.il/eng/), Israel  
 
 * [TALOS](http://www.talos-border.eu/) Project
 * [SISO Smackdown](http://sisosmackdown.com/) Project
 
 *Feb. 2010 – Feb. 2012*  
 **Advisor**   
-[**Technion - Israel Institue of Technology**](http://www1.technion.ac.il/en), Israel  
+[Technion - Israel Institue of Technology](http://www1.technion.ac.il/en), Israel  
 
 * Vivid OPM Conceptual Animation Tool Project
 * Information System for Druze Heritage Museum Project
 
 *Feb. 2010 – Aug. 2010*  
 **Teaching Assistant**  
-[**Technion - Israel Institue of Technology**](http://www1.technion.ac.il/en), Israel  
+[Technion - Israel Institue of Technology](http://www1.technion.ac.il/en), Israel  
 “Specification and Modeling of Information Systems" Course
 
 

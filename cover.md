@@ -13,7 +13,7 @@ Closure
 CSS
 Debugging
 Design Patterns
-Dev tools  
+Dev tools
 EmberJS
 Git
 HTML

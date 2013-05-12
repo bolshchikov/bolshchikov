@@ -43,7 +43,7 @@ Serving seafood to hundreds happy customers
 
 
 ## Education
-*Oct. 2009 - Apr. 2013*  
+*Oct. 2009 - May. 2013*  
 **Master of Science**   
 [Technion - Israel Institute of Technology](http://www1.technion.ac.il/en), Israel   
 Major: Information Systems  
@@ -57,10 +57,10 @@ Minor: Medicine
 ## Skills
 * *OS:* Linux, Windows, Mac OS
 * *Programming:* JavaScript, HTML/HTML5, CSS, Python
-* *Frameworks:* Backbone, KnockoutJS, AngularJS, JavascriptMVC
+* *Frameworks:* Ember, Knockout, Angular, Backbone
 * *Libraries:* jQuery, Zepto
 * *UI:* KendoUI, jQueryUI, Bootstrap
-* *Dev tools:* Eclipse, Sublime Text 2
+* *Dev tools:* WebStorm, Eclipse, Sublime Text 2
 * *VCS*: Git, Mercurial
 * *Modeling:* UML, OPM, IDEF, BPMN
 

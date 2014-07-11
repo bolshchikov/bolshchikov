@@ -1,5 +1,9 @@
 ## Experience
-*June 2012 – Current*  
+*July 2014 - Current*
+**Developer Advocate**
+[Wix](http://wix.com), Israel
+
+*June 2012 – July 2014*  
 **Front-end Developer**  
 [New ProImage](http://www.new-proimage.com/), Israel    
 Development of large-scale client side application for publishing houses.  
@@ -56,20 +60,19 @@ Minor: Medicine
 
 ## Skills
 * *OS:* Linux, Windows, Mac OS
-* *Programming:* JavaScript, HTML/HTML5, CSS, Python
-* *Frameworks:* Ember, Knockout, Angular, Backbone
-* *Libraries:* jQuery, Zepto
+* *Programming:* JavaScript, OOP Javascript, CoffeeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
+* *Frameworks:* Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
+* *Libraries:* jQuery, Zept
 * *UI:* KendoUI, jQueryUI, Bootstrap
-* *Dev tools:* WebStorm, Eclipse, Sublime Text 2
-* *VCS*: Git, Mercurial
+* *Dev tools:* IntelliJ, WebStorm, Eclipse, Sublime Text 2
+* *VCS*: Git, Mercurial, SVN
 * *Modeling:* UML, OPM, IDEF, BPMN
 
-## Languages
-* *Russian:* Native or bilingual proficiency
-* *English:* Full professional proficiency
-* *Hebrew:* Limited working proficiency
+## Talks
+* Why do I need EmberJS if jQuery is enough (DUMP) [Video](http://vimeo.com/90836496)[Slides](http://www.slideshare.net/bolshchikov/emberjs-32303975)
+* Ember Reusable Components and Widgets (EmberFest) [Video](http://www.infoq.com/presentations/ember-view-handlebars-ui) [Slides](http://www.slideshare.net/bolshchikov/ember-fest-reusable-components-and-widgets)
+* From VanilaJS to MVC (Ember-IL Meetup) [Slides](https://docs.google.com/presentation/d/1zcHwOS8LUIEUi56oFE85lECP0mr0mOLbe2QeYKL-I2w/edit?usp=sharing)
+* Web Projects: From Theory To Practice (GDG Meetup) [Video](https://www.youtube.com/watch?v=zfuIMYYDbac&feature=youtu.be) [Slides](http://www.slideshare.net/bolshchikov/copy-of-lecture-2-from-theory-to-practice)
+* Front end Development: The Important Parts (New ProImage) [Slides](http://www.slideshare.net/bolshchikov/frothe-important-parts)
 
-## Awards
-* Certificate of National Software Registration #2009613569
-* Opportunity Grant from Public Affairs Section of US Embassy
 

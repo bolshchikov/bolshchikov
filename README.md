@@ -64,7 +64,7 @@ Minor: Medicine
 * *OS:* Linux, Windows, Mac OS
 * *Programming:* JavaScript, OOP Javascript, CoffeeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
 * *Frameworks:* Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
-* *Libraries:* jQuery, Zept
+* *Libraries:* jQuery, Zepto
 * *UI:* KendoUI, jQueryUI, Bootstrap
 * *Dev tools:* IntelliJ, WebStorm, Eclipse, Sublime Text 2
 * *VCS*: Git, Mercurial, SVN

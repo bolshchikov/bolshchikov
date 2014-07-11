@@ -1,7 +1,9 @@
 ## Experience
+
 *July 2014 - Current*
 **Developer Advocate**
 [Wix](http://wix.com), Israel
+
 
 *June 2012 – July 2014*  
 **Front-end Developer**  

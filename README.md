@@ -3,7 +3,8 @@
 *July 2014 - Current*  
 **Developer Advocate**  
 [Wix](http://wix.com), Israel
-
+Developement of future CRM application family. 
+Developing front-end community inside and outside of the company.
 
 *June 2012 – July 2014*  
 **Front-end Developer**  
@@ -62,8 +63,8 @@ Minor: Medicine
 
 ## Skills
 * *OS:* Linux, Windows, Mac OS
-* *Programming:* JavaScript, OOP Javascript, CoffeeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
-* *Frameworks:* Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
+* *Programming:* JavaScript, OOP Javascript, CoffeeScript, TypeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
+* *Frameworks:* React, Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
 * *Libraries:* jQuery, Zepto
 * *UI:* KendoUI, jQueryUI, Bootstrap
 * *Dev tools:* IntelliJ, WebStorm, Eclipse, Sublime Text 2
@@ -71,6 +72,7 @@ Minor: Medicine
 * *Modeling:* UML, OPM, IDEF, BPMN
 
 ## Talks
+* Deliver Applications to 50+M users [Video](https://www.youtube.com/watch?v=e--5_V0hm3A) [Slides](http://www.slideshare.net/bolshchikov/values-culture-of-continuous-deliver)
 * Why do I need EmberJS if jQuery is enough (DUMP) [Video](http://vimeo.com/90836496) [Slides](http://www.slideshare.net/bolshchikov/emberjs-32303975)
 * Ember Reusable Components and Widgets (EmberFest) [Video](http://www.infoq.com/presentations/ember-view-handlebars-ui) [Slides](http://www.slideshare.net/bolshchikov/ember-fest-reusable-components-and-widgets)
 * From VanilaJS to MVC (Ember-IL Meetup) [Slides](https://docs.google.com/presentation/d/1zcHwOS8LUIEUi56oFE85lECP0mr0mOLbe2QeYKL-I2w/edit?usp=sharing)

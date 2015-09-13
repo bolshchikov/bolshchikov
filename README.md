@@ -2,8 +2,8 @@
 
 *July 2014 - Current*  
 **Developer Advocate**  
-[Wix](http://wix.com), Israel
-Developement of future CRM application family. 
+[Wix](http://wix.com), Israel   
+Developement of future CRM application family.    
 Developing front-end community inside and outside of the company.
 
 *June 2012 – July 2014*  

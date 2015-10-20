@@ -63,11 +63,11 @@ Minor: Medicine
 
 ## Skills
 * *OS:* Linux, Windows, Mac OS
-* *Programming:* JavaScript, OOP Javascript, CoffeeScript, TypeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
-* *Frameworks:* React, Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
+* *Programming:* JavaScript, Elm, CoffeeScript, TypeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
+* *Frameworks:* React Native, React, Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
 * *Libraries:* jQuery, Zepto
 * *UI:* KendoUI, jQueryUI, Bootstrap
-* *Dev tools:* IntelliJ, WebStorm, Eclipse, Sublime Text 2
+* *Dev tools:* Atom, IntelliJ, WebStorm, Eclipse, Sublime Text 2
 * *VCS*: Git, Mercurial, SVN
 * *Modeling:* UML, OPM, IDEF, BPMN
 

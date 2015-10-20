@@ -73,7 +73,7 @@ Minor: Medicine
 
 ## Talks
 * Protractor: Tips & Tricks [Video](https://www.youtube.com/watch?v=eXbonBPeros) | [Slides](http://frameworksdays.com/event/angular-react-fwday-2015/review/protractor-tips-tricks)
-* Deliver Applications to 50+M users [Video](https://www.youtube.com/watch?v=e--5_V0hm3A) |  [Slides](http://www.slideshare.net/bolshchikov/values-culture-of-continuous-deliver)
+* Deliver Applications to 50M+ users [Video](https://www.youtube.com/watch?v=e--5_V0hm3A) |  [Slides](http://www.slideshare.net/bolshchikov/values-culture-of-continuous-deliver)
 * Why do I need EmberJS if jQuery is enough (DUMP) [Video](http://vimeo.com/90836496) |  [Slides](http://www.slideshare.net/bolshchikov/emberjs-32303975)
 * Ember Reusable Components and Widgets (EmberFest) [Video](http://www.infoq.com/presentations/ember-view-handlebars-ui) | [Slides](http://www.slideshare.net/bolshchikov/ember-fest-reusable-components-and-widgets)
 * From VanilaJS to MVC (Ember-IL Meetup) [Slides](https://docs.google.com/presentation/d/1zcHwOS8LUIEUi56oFE85lECP0mr0mOLbe2QeYKL-I2w/edit?usp=sharing)

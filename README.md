@@ -72,6 +72,7 @@ Minor: Medicine
 * *Modeling:* UML, OPM, IDEF, BPMN
 
 ## Talks
+* Angular Components: все уже за, а вы еще нет? [Video](https://www.youtube.com/watch?v=P55wbaLtsxQ) | [Slides](http://frameworksdays.com/event/js-frameworks-day-2016/review/angular-components)
 * Protractor: Tips & Tricks [Video](https://www.youtube.com/watch?v=eXbonBPeros) | [Slides](http://frameworksdays.com/event/angular-react-fwday-2015/review/protractor-tips-tricks)
 * Deliver Applications to 50M+ users [Video](https://www.youtube.com/watch?v=e--5_V0hm3A) |  [Slides](http://www.slideshare.net/bolshchikov/values-culture-of-continuous-deliver)
 * Why do I need EmberJS if jQuery is enough (DUMP) [Video](http://vimeo.com/90836496) |  [Slides](http://www.slideshare.net/bolshchikov/emberjs-32303975)

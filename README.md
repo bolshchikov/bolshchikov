@@ -1,4 +1,4 @@
-# Sergey bolshchikov
+# Sergey Bolshchikov
 > Experienced Software Engineer & Team Lead
 
 ## Experience

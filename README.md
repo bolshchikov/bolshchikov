@@ -1,5 +1,6 @@
 # Sergey bolshchikov
 > Experienced Software Engineer & Team Lead
+
 ## Experience
 
 *July 2016 - Current*  

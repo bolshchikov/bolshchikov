@@ -1,10 +1,18 @@
 ## Experience
 
-*July 2014 - Current*  
+*July 2016 - Current*  
+**Tech Leader, My Account**  
+[Wix](http://wix.com), Israel  
+Leading the team of 7 developers.  
+Creating a new generation of platform to host different vertical apps.
+
+
+*July 2014 - July 2016*  
 **Developer Advocate**  
-[Wix](http://wix.com), Israel   
-Developement of future CRM application family.    
-Developing front-end community inside and outside of the company.
+[Wix](http://wix.com), Israel  
+Developement of future CRM application family.   
+Founder of Wix Workshops and YGLF conference.
+
 
 *June 2012 – July 2014*  
 **Front-end Developer**  
@@ -62,6 +70,7 @@ Major: Information Systems and Technology
 Minor: Medicine  
 
 ## Skills
+<<<<<<< e51bbaca138ba877003bc688da370fcda0d0f12f
 * *OS:* Linux, Windows, Mac OS
 * *Programming:* JavaScript, Elm, CoffeeScript, TypeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
 * *Frameworks:* React Native, React, Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
@@ -77,6 +86,20 @@ Minor: Medicine
 * Deliver Applications to 50M+ users [Video](https://www.youtube.com/watch?v=e--5_V0hm3A) |  [Slides](http://www.slideshare.net/bolshchikov/values-culture-of-continuous-deliver)
 * Why do I need EmberJS if jQuery is enough (DUMP) [Video](http://vimeo.com/90836496) |  [Slides](http://www.slideshare.net/bolshchikov/emberjs-32303975)
 * Ember Reusable Components and Widgets (EmberFest) [Video](http://www.infoq.com/presentations/ember-view-handlebars-ui) | [Slides](http://www.slideshare.net/bolshchikov/ember-fest-reusable-components-and-widgets)
+=======
+* *Programming:* JavaScript, OOP Javascript, CoffeeScript, TypeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
+* *Frameworks:* React, Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
+* *Libraries:* jQuery, Zepto
+* *UI:* KendoUI, jQueryUI, Bootstrap
+* *Modeling:* UML, OPM, IDEF, BPMN
+
+## Talks
+* Protractor: Tips & Tricks [Slides](http://www.slideshare.net/bolshchikov/protractor-tips-tricks)
+* Talking code: How To [Slides](http://www.slideshare.net/bolshchikov/talking-code-how-to)
+* Deliver Applications to 50M+ users [Video](https://www.youtube.com/watch?v=e--5_V0hm3A) [Slides](http://www.slideshare.net/bolshchikov/values-culture-of-continuous-deliver)
+* Why do I need EmberJS if jQuery is enough (DUMP) [Video](http://vimeo.com/90836496) [Slides](http://www.slideshare.net/bolshchikov/emberjs-32303975)
+* Ember Reusable Components and Widgets (EmberFest) [Video](http://www.infoq.com/presentations/ember-view-handlebars-ui) [Slides](http://www.slideshare.net/bolshchikov/ember-fest-reusable-components-and-widgets)
+>>>>>>> update current position
 * From VanilaJS to MVC (Ember-IL Meetup) [Slides](https://docs.google.com/presentation/d/1zcHwOS8LUIEUi56oFE85lECP0mr0mOLbe2QeYKL-I2w/edit?usp=sharing)
 * Web Projects: From Theory To Practice (GDG Meetup) [Video](https://www.youtube.com/watch?v=zfuIMYYDbac&feature=youtu.be) [Slides](http://www.slideshare.net/bolshchikov/copy-of-lecture-2-from-theory-to-practice)
 * Front end Development: The Important Parts (New ProImage) [Slides](http://www.slideshare.net/bolshchikov/frothe-important-parts)

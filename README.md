@@ -1,4 +1,4 @@
-# Sergey Bolshchikov
+# Sergey Bolshchikov [![word](http://icons.iconarchive.com/icons/dakirby309/simply-styled/24/Microsoft-Word-2013-icon.png)](https://github.com/bolshchikov/cv/blob/master/bolshchikov.docx?raw=true) [![pdf](http://icons.iconarchive.com/icons/treetog/i/24/PDF-icon.png)]((https://github.com/bolshchikov/cv/blob/master/bolshchikov.pdf?raw=true))
 > Experienced Software Engineer & Team Lead
 
 ## Experience

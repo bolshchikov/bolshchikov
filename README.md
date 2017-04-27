@@ -48,7 +48,7 @@ Minor: Medicine
 * *UI:* KendoUI, jQueryUI, Bootstrap
 
 ## Talks
-* Microservices on the client side [Slides](https://www.slideshare.net/bolshchikov/microservices-on-the-client-side)
+* Microservices on the client side [Video](https://www.youtube.com/watch?v=LQ__LKsVD3o) | [Slides](https://www.slideshare.net/bolshchikov/microservices-on-the-client-side)
 * Protractor: Tips & Tricks [Video](https://www.youtube.com/watch?v=eXbonBPeros) | [Slides](http://www.slideshare.net/bolshchikov/protractor-tips-tricks)
 * Talking code: How To [Slides](http://www.slideshare.net/bolshchikov/talking-code-how-to)
 * Deliver Applications to 50M+ users [Video](https://www.youtube.com/watch?v=e--5_V0hm3A) | [Slides](http://www.slideshare.net/bolshchikov/values-culture-of-continuous-deliver)

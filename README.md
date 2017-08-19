@@ -6,7 +6,7 @@
 *July 2016 - Current*  
 **Tech Leader, My Account Team**  
 [Wix](http://wix.com), Israel  
-Leading the team of 7 developers.  
+Leading the team of 10 developers.  
 Creating a new generation of platform to host different vertical apps.
 
 

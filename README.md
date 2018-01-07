@@ -4,10 +4,10 @@
 ## Experience
 
 *July 2016 - Current*  
-**Tech Leader, My Account Team**  
+**Team Lead, CX OS**  
 [Wix](http://wix.com), Israel  
-Leading the team of 10 developers.  
-Creating a new generation of platform to host different vertical apps.
+Leading the team of 12 developers.  
+Leading the team effort (12 devs) of creating large-scale multi-tenant single page application hosting tens of modules in React or Angular.
 
 
 *July 2014 - July 2016*  
@@ -42,7 +42,7 @@ Major: Information Systems and Technology
 Minor: Medicine  
 
 ## Skills
-* *Languages:* JavaScript, Elm, TypeScript, Ruby, Python, C++, HTML, HTML5, CSS, SVG, JSON, XML
+* *Languages:* JavaScript, Elm, TypeScript, Ruby, Python, Rust, C++, HTML, HTML5, CSS, SVG, JSON, XML
 * *Frameworks:* React Native, React, Ember, Knockout, Angular, Backbone, Google App Engine, PhantomJS, Node
 * *Libraries:* jQuery, Zepto, Lodash
 * *UI:* KendoUI, jQueryUI, Bootstrap

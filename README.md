@@ -13,7 +13,7 @@ Leading the team effort (12 devs) of creating large-scale multi-tenant single pa
 **Developer Advocate**  
 [Wix](http://wix.com), Israel  
 Developement of future CRM application family.   
-Founder of Wix Workshops and YGLF conference.
+Founder of Wix Workshops and [YGLF conference](https://yougottalovefrontend.com).
 
 
 *June 2012 – July 2014*  

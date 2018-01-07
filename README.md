@@ -6,7 +6,6 @@
 *July 2016 - Current*  
 **Team Lead, CX OS**  
 [Wix](http://wix.com), Israel  
-Leading the team of 12 developers.  
 Leading the team effort (12 devs) of creating large-scale multi-tenant single page application hosting tens of modules in React or Angular.
 
 

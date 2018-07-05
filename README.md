@@ -31,7 +31,7 @@ Development of large-scale client side application for publishing houses.
 *Nov. 2011 – June 2012*  
 **Development Lead**  
 [Technion Research & Development Foundation](http://www.trdf.co.il/eng/), Israel  
-Developing on-line editor for Object-Process Methodology conceptual modeling.  
+Developing online editor for Object-Process Methodology conceptual modeling.  
 
 
 ## Education

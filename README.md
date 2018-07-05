@@ -2,8 +2,14 @@
 > Experienced Software Engineer & Team Lead
 
 ## Experience
+*July 2016 - June 2018*  
+**Engineering Manager, Front-End Engineering Group**  
+[Wix](http://wix.com), Israel  
+Being engineering manager at Wix for the Front End Engineering group our goal is to create the place for over 350 front-end developers can grow, deliver and excel!.
+This includes the range of different spheres like recruitment, onboarding, education, communication, branding, engineering and more.
 
-*July 2016 - Current*  
+
+*July 2016 - June 2018*  
 **Team Lead, CX OS**  
 [Wix](http://wix.com), Israel  
 Leading the team effort (12 devs) of creating large-scale multi-tenant single page application hosting tens of modules in React or Angular.

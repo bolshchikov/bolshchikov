@@ -4,7 +4,7 @@ I know how to build and **scale** a team who will continue building products. <b
 I know how to **mentor** each team member to teach their own next milestone.
 
 ## Experience
-June 2018 - *Current* </br>
+June 2018 - Dec 2018 </br>
 **Engineering Manager, Front-End Engineering Group**  
 [Wix](http://wix.com), Israel  
 Being engineering manager at Wix for the Front End Engineering group our goal is to create the place for over 350 front-end developers can grow, deliver and excel.
@@ -54,11 +54,12 @@ Minor: Medicine
 
 ## Skills
 * *Software Architecture*
-* *Languages:* JavaScript, Elm, TypeScript, Ruby, Python, Rust, C++, HTML,CSS
+* *Languages:* JavaScript, TypeScript, Ruby, Python, Rust, HTML,CSS
 * *Platforms*: Node, Google Cloud Platform, Windows Azure
 * *Frameworks:* React Native, React, Ember, Knockout, Angular, Backbone, PhantomJS
 
 ## Talks
+* Team Lead, care about your devs! [Video](https://www.youtube.com/watch?v=A5sEEncsduo) | [Slides](https://www.slideshare.net/bolshchikov/onboarding-for-software-engineers-done-right)
 * Microservices on the client side [Video](https://www.youtube.com/watch?v=LQ__LKsVD3o) | [Slides](https://www.slideshare.net/bolshchikov/microservices-on-the-client-side)
 * Protractor: Tips & Tricks [Video](https://www.youtube.com/watch?v=eXbonBPeros) | [Slides](http://www.slideshare.net/bolshchikov/protractor-tips-tricks)
 * Talking code: How To [Slides](http://www.slideshare.net/bolshchikov/talking-code-how-to)

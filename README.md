@@ -9,35 +9,33 @@ March 2020 - Present </br>
 [Swiftt](https://getswiftt.com), Israel  
 Buildling the R&D where people enjoy working :)
 
-
 Feb. 2019 - March 2020 </br>
 **Solution Architect**  
 [Orbs.com](http://orbs.com), Israel  
 Help, discuss and design solutions utilizing Orbs public blockchain pltaform.
 
+<details>
+<summary>July 2014 - Dec 2018 <br/> Wix, Israel</summary>
+
 June 2018 - Dec 2018 </br>
 **Engineering Manager, Front-End Engineering Group**  
-[Wix](http://wix.com), Israel  
 Being engineering manager at Wix for the Front End Engineering group our goal is to create the place for over 350 front-end developers can grow, deliver and excel.
 This includes the range of different spheres like recruitment, onboarding, education, communication, branding, engineering and more.
 
 July 2016 - June 2018 <br>
 **Team Lead, CX OS**  
-[Wix](http://wix.com), Israel  
 Growing a team from 5 to 12 developers.<br>
 Together we've built and design a new back office platform that hosts over 30 applications.
 
 June 2015 - July 2016 <br>
 **Tech Lead, CRM**  
-[Wix](http://wix.com), Israel  
 Design and implement invoices application under the family of CRM products.
 
 July 2014 - June 2015 <br>
 **Software Engineer**  
-[Wix](http://wix.com), Israel  
 Design and implement from ground up the news feed cms.<br/>
 Refactor news feed app.
-
+</details>
 
 June 2012 – July 2014 <br>
 **Front-end Developer**  

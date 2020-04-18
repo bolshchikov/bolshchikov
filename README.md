@@ -4,7 +4,13 @@ I know how to build and **scale** a team who will continue building products. <b
 I know how to **mentor** each team member to teach their own next milestone.
 
 ## Experience
-Feb. 2019 - Present </br>
+Feb. 2019 - March 2020 </br>
+**VP R&D**  
+[Swiftt](https://getswiftt.com), Israel  
+Buildling the R&D where people enjoy working :)
+
+
+Feb. 2019 - March 2020 </br>
 **Solution Architect**  
 [Orbs.com](http://orbs.com), Israel  
 Help, discuss and design solutions utilizing Orbs public blockchain pltaform.
@@ -56,12 +62,6 @@ Sept. 2004 - June 2009 <br>
 [Ural Federal University](http://urfu.ru/en/home/), Russia  
 Major: Information Systems and Technology  
 Minor: Medicine  
-
-## Skills
-* *Software Architecture*
-* *Languages:* JavaScript, TypeScript, Ruby, Python, Rust, HTML,CSS
-* *Platforms*: Node, Google Cloud Platform, Windows Azure
-* *Frameworks:* React Native, React, Ember, Knockout, Angular, Backbone, PhantomJS
 
 ## Talks
 * Team Lead, care about your devs! [Video](https://www.youtube.com/watch?v=A5sEEncsduo) | [Slides](https://www.slideshare.net/bolshchikov/onboarding-for-software-engineers-done-right)

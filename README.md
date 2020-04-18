@@ -4,7 +4,7 @@ I know how to build and **scale** a team who will continue building products. <b
 I know how to **mentor** each team member to teach their own next milestone.
 
 ## Experience
-Feb. 2019 - March 2020 </br>
+March 2020 - Present </br>
 **VP R&D**  
 [Swiftt](https://getswiftt.com), Israel  
 Buildling the R&D where people enjoy working :)

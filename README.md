@@ -7,8 +7,8 @@ I know how to **mentor** each team member to teach their own next milestone.
 March 2020 - Present </br>
 **VP R&D**  
 [Approve.com](https://www.approve.com), Israel <br />
-Shipping modern procurrement platform. <br />
-Buildling the R&D where people enjoy working :)
+Shipping modern procurement platform. <br/>
+Building the R&D where people enjoy working :)
 
 Feb. 2019 - March 2020 </br>
 **Solution Architect**  

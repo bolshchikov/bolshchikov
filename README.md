@@ -6,7 +6,7 @@ I know how to **mentor** each team member to teach their own next milestone.
 ## Experience
 March 2020 - Present </br>
 **VP R&D**  
-[Approve.com](https://www.approve.com), Israel 
+[Approve.com](https://www.approve.com), Israel <br />
 Shipping modern procurrement platform. <br />
 Buildling the R&D where people enjoy working :)
 
@@ -42,6 +42,7 @@ June 2012 – July 2014 <br>
 **Front-end Developer**  
 [New ProImage](http://www.new-proimage.com/), Israel    
 Development of large-scale client side application for publishing houses.  
+
 
 
 Nov. 2011 – June 2012 <br>

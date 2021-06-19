@@ -6,7 +6,7 @@ I know how to **mentor** each team member to teach their own next milestone.
 ## Experience
 March 2020 - Present </br>
 **VP R&D**  
-[Approve.com](https://www.approve.com), Israel <br />
+[Approve.com (Acquired by Tipalti)](https://www.approve.com), Israel <br />
 Shipping modern procurement platform. <br/>
 Building the R&D where people enjoy working :)
 
